@@ -663,3 +663,21 @@ offset_right = -1582.0
 offset_bottom = -481.0
 text = "You collected
 coin "
+
+[node name="Slime" parent="." instance=ExtResource("6_4u0td")]
+position = Vector2(-808, -326)
+
+[node name="Slime2" parent="." instance=ExtResource("6_4u0td")]
+position = Vector2(-854, -275)
+
+[node name="Slime3" parent="." instance=ExtResource("6_4u0td")]
+position = Vector2(-821, -308)
+
+[node name="Slime4" parent="." instance=ExtResource("6_4u0td")]
+position = Vector2(-1014, -292)
+
+[node name="Slime5" parent="." instance=ExtResource("6_4u0td")]
+position = Vector2(-1046, -260)
+
+[node name="Slime6" parent="." instance=ExtResource("6_4u0td")]
+position = Vector2(-966, -341)
